@@ -1,0 +1,8 @@
+com\reqresapi\testCases\TC004_Put_User_Record.class
+com\reqresapi\base\TestBase.class
+com\reqresapi\testCases\TC002_Get_Single_User_Record.class
+com\reqresapi\utilities\RestUtils.class
+com\reqresapi\utilities\Reporting.class
+com\reqresapi\testCases\TC001_Get_All_Users.class
+com\reqresapi\testCases\TC003_Post_User_Record.class
+com\reqresapi\testCases\TC005_Delete_User_Record.class
