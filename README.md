@@ -1,7 +1,7 @@
 
 # ReqresAPItesting
 
-Developed a framework for performing API Automation testing to automate https://reqres.in/ website using java REST Assured library in BDD( Behavior Driven Development) approach.
+Developed a framework for performing API Automation testing to automate https://reqres.in/ website using java REST Assured library.
 
 ## Automated the following scenarios/requests:
 
@@ -13,7 +13,7 @@ Developed a framework for performing API Automation testing to automate https://
 
 ## Note:
 * Here I have used java REST assured library for automating Restful Webservices.
- * Used testNG and BDD approach , added loggers, listeners etc.
+ * Used testNG , added loggers, listeners etc.
  * Performed the validations like statuscode , statusline , responsetime , headers etc. 
  * I have also ran this project using maven/cmd and on jenkins. 
 
